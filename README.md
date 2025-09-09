@@ -3,7 +3,7 @@ A customized Windows 10 OS designed specifically for Gameloop.
 <h1 align="center">Hi 👋, I'm MaThiYa</h1>
 <h3 align="center">Creator of GameloopOS</h3>
 
-![image width="102" alt](https://github.com/MaThiYa-GameloopOS/GameloopOS/blob/main/GOS.jpg?raw=true)
+![image alt](https://github.com/MaThiYa-GameloopOS/GameloopOS/blob/main/GOS.jpg?raw=true) width="200" height="200"
 
 - ⚡ Download GameloopOS [GameloopOS (Windows 10)](https://drive.google.com/file/d/1vbD8wUBOeYyUwkdxiJZprpTzGjc9YS8t/view?usp=sharing)
 
